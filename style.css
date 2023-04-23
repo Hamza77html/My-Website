@@ -35,3 +35,6 @@ header {
 .navigation a:hover {
     color: blueviolet;
 }
+section {
+    padding: 100px 200px;
+}
